@@ -151,4 +151,4 @@ The following post-cascade variables are strictly excluded:
 │
 ├── requirements.txt
 ├── README.md
-└── main.py
+└── 2_ml_pipeline.py
